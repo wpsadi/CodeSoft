@@ -3,7 +3,7 @@
 <br><br>
 <h3>Level 1</h3>
 <table border="2>
-  <tr>
+<!--   <tr>
     <th>S. No</th>
     <th>Tasks</th>
     <th>Links</th>
@@ -12,7 +12,7 @@
     <td>1</td>
     <td>Calculator</td>
     <td><a href="#">view</a></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>2</td>
     <td>Landing Page</td>
